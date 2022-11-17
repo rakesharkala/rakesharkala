@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...java full stack 
 - 💞️ I’m looking to collaborate on ... a passionate tech product 
-- 📫 How to reach me ... 
+- 📫 How to reach me ... https://github.com/rakesharkala
 
 <!---
 rakesharkala/rakesharkala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
