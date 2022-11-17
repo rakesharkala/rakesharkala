@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/117727584/202377088-8b29f846-a7fe-4f36-b62c-8d1f50151a5c.png)
+
+
 - 👋 Hi, I’m @rakesharkala
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...java full stack 
@@ -8,4 +11,4 @@
 rakesharkala/rakesharkala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://user-images.githubusercontent.com/117727584/202375864-3c59fe5b-cc48-41b9-90e2-170cea36bc18.png)
+
