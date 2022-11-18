@@ -6,6 +6,9 @@
 - 🌱 I’m currently learning ...java full stack @coding_hub
 - 💞️ I’m looking to collaborate on ... a passionate tech product 
 - 📫 How to reach me ... https://github.com/rakesharkala
+-                        https://www.hackerrank.com/rakesharkala001
+-                        mail-id : rakesharkala001@gmail.com
+-                        
 
 <!---
 rakesharkala/rakesharkala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
